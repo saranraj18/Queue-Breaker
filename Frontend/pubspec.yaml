@@ -1,0 +1,50 @@
+name: login
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  http: ^0.12.1
+  image_picker: ^0.6.7+4
+  dio: ^3.0.9
+  loading: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/Icon.jpeg
+    - images/Shop.jpeg
+    - images/Merch.jpg
+    - images/Signup_Img.jpeg
+    - images/Alert.jpeg
+    - images/Pos.jpeg
+    - images/AppLogo.jpeg
+    - images/Q_Logo.jpeg
+    - images/Q.jpeg
+    - images/NoResults.jpeg
+    - images/funny.gif
+    - images/Nothing.jpg
+
+  fonts:
+    - family: Vollkoran
+      fonts:
+        - asset: fonts/Vollkoran_Italic.ttf
+
+    - family: Amiri
+      fonts:
+        - asset: fonts/Amiri_Italic.ttf
