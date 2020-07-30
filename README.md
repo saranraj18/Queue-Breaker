@@ -4,6 +4,10 @@ One preferred way to prevent the spread is to maintain the social distancing at 
 So, we’ve developed a mobile application which can be used by both customers and merchants. 
 Using this mobile app, we can avoid unwanted queue in markets and shops where maintaining social distancing is mandatory. 
 By using this app, user can pre-block their position in the virtual queue, so that they need not stand in the line.  
+
+![Logopit_1595607003837](https://user-images.githubusercontent.com/58389152/88929810-4011ed00-d298-11ea-9515-d542b803ed54.jpg)
+
+
 Instead, they can be away from the shops and their position in the virtual queue is generated. 
 This helps the customers to get rid of long queues and keeps them safe.
 Customers can access their nearby shops, similarly Merchants can also access the queue for their shop.
@@ -22,3 +26,4 @@ Merchant’s UI contains the details of their shop. They need to add the number 
 Merchants have a dedicated button where they can change the availability such as Open/Closed.
 Merchants can view the number of customers waiting in their queue by pressing the Queue List Button. 
 Thus, Queue Breaker can be used in any pandemic situations as well as in normal conditions which makes it as a User-Friendly application.
+
