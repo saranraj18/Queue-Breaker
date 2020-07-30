@@ -22,4 +22,3 @@ Merchant’s UI contains the details of their shop. They need to add the number 
 Merchants have a dedicated button where they can change the availability such as Open/Closed.
 Merchants can view the number of customers waiting in their queue by pressing the Queue List Button. 
 Thus, Queue Breaker can be used in any pandemic situations as well as in normal conditions which makes it as a User-Friendly application.
-
